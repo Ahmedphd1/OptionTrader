@@ -1,0 +1,5 @@
+[This is the parameters of the specific stock]
+ticket,timeframe,percentdecrease,quantity,checking,option_type,option_order,option_pricetype,option_price,option_priceincreased,min,max,strike,expiration,deltagreek,fixedgain
+
+[Paste your stocks here]
+AAPL,1,-3,1,4,C,SELL,ASK,0,10,5,15,125,20210453319,0,1

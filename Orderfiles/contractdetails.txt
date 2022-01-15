@@ -1,0 +1,8 @@
+Ticker: SAVA Conid: 358913768 Exchange: SMART 
+Ticker: TSLA Conid: 76792991 Exchange: SMART 
+Ticker: NVDA Conid: 4815747 Exchange: SMART 
+Ticker: AAPL Conid: 265598 Exchange: SMART 
+Ticker: MSFT Conid: 272093 Exchange: SMART 
+Ticker: NFLX Conid: 15124833 Exchange: SMART 
+Ticker: ZM Conid: 361181057 Exchange: SMART 
+Ticker: FB Conid: 107113386 Exchange: SMART 
